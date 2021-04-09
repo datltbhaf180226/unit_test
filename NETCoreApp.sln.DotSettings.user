@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\hungbuiq\AppData\Local\Temp\JetBrains\ReSharperPlatformVs16\vAny_ef496cca\CoverageData\_NETCoreApp.1415370621\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=859e4f3d_002D4b23_002D4742_002Dac84_002Dcd5da00d1b7e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from BookRepositoryTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;53726723-734F-4079-9E6A-C9A2D18FF70F/d:Repositories/f:BookRepositoryTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;53726723-734F-4079-9E6A-C9A2D18FF70F/d:Controllers/f:BookControllerTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
